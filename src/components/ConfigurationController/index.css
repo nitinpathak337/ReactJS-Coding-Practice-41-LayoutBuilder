@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.cc-bg {
+  background-color: #475569;
+  padding: 3%;
+  padding-left: 5%;
+}
+.layout-heading {
+  font-family: 'Roboto';
+  color: white;
+}
+.label {
+  font-family: 'Roboto';
+  color: white;
+  margin-left: 1%;
+}
